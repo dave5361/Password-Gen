@@ -1,0 +1,42 @@
+body {
+    background-color: #1C1C1C;
+   
+    
+}
+.main{
+    border: 5px solid black;
+    margin: 450px ;
+    padding-top: 50px;
+    border-radius: 10px;
+    padding: 50px 0px 150px 50px ;
+    background: #1F2937;
+    margin-top: 100px;
+}
+.head1{
+    color: #FFFFFF;
+    font-family: inter, sans-serif;
+    padding-bottom: 1px;
+   
+}
+.head2{
+    color: #4ADF86;
+    font-family: inter;
+    padding-top: 0px;
+}
+.never{
+    color: #D5D4D8;
+}
+.hori{
+    border: 1px solid #2F3E53;
+    margin: 50px;
+    margin-right: 50px ;
+    margin-left: 0px;
+    
+}
+#clickEl{
+    background-color: #4ADF86;
+    color: #FFFFFF;
+    margin-top: 30px;
+    padding: 7px;
+    border-radius: 5px;
+}
